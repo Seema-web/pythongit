@@ -4,4 +4,7 @@ if hungry=='yes':
     print('eat momos')
     print('eat fries')
 else:
-    print("DO home work")
+    thristy=input('R u thristy')
+    if thristy=='yes':
+        print('drink water')
+    #print("DO home work")
